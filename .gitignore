@@ -3,3 +3,4 @@
 *.rar
 !HasilAkhir1.xlsx
 !HasilAkhir2.xlsx
+.ipynb_checkpoints
